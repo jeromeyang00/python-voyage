@@ -1,0 +1,114 @@
+{
+  "students": [
+    {
+      "student_number": "202300010237",
+      "name": "John Doe",
+      "grades": {
+        "CPE 101": 1,
+        "CPE 102": 2,
+        "CPE 103": 1,
+        "CPE 104": 2,
+        "CPE 105": 1
+      }
+    },
+    {
+      "student_number": "202300021948",
+      "name": "Jane Smith",
+      "grades": {
+        "CPE 101": 2,
+        "CPE 102": 1,
+        "CPE 103": 2,
+        "CPE 104": 1,
+        "CPE 105": 2
+      }
+    },
+    {
+      "student_number": "202300034859",
+      "name": "Alice Johnson",
+      "grades": {
+        "CPE 101": 1,
+        "CPE 102": 2,
+        "CPE 103": 3,
+        "CPE 104": 2,
+        "CPE 105": 1
+      }
+    },
+    {
+      "student_number": "202300042739",
+      "name": "Bob Brown",
+      "grades": {
+        "CPE 101": 3,
+        "CPE 102": 1,
+        "CPE 103": 3,
+        "CPE 104": 2,
+        "CPE 105": 3
+      }
+    },
+    {
+      "student_number": "202300055432",
+      "name": "Cathy White",
+      "grades": {
+        "CPE 101": 2,
+        "CPE 102": 1,
+        "CPE 103": 2,
+        "CPE 104": 1,
+        "CPE 105": 2
+      }
+    },
+    {
+      "student_number": "202300061233",
+      "name": "David Green",
+      "grades": {
+        "CPE 101": 1,
+        "CPE 102": 2,
+        "CPE 103": 1,
+        "CPE 104": 3,
+        "CPE 105": 1
+      }
+    },
+    {
+      "student_number": "202300078932",
+      "name": "Eva Black",
+      "grades": {
+        "CPE 101": 2,
+        "CPE 102": 1,
+        "CPE 103": 2,
+        "CPE 104": 2,
+        "CPE 105": 3
+      }
+    },
+    {
+      "student_number": "202300084322",
+      "name": "Frank Blue",
+      "grades": {
+        "CPE 101": 1,
+        "CPE 102": 3,
+        "CPE 103": 1,
+        "CPE 104": 2,
+        "CPE 105": 1
+      }
+    },
+    {
+      "student_number": "202300091234",
+      "name": "Grace Pink",
+      "grades": {
+        "CPE 101": 3,
+        "CPE 102": 2,
+        "CPE 103": 3,
+        "CPE 104": 2,
+        "CPE 105": 3
+      }
+    },
+    {
+      "student_number": "202300103458",
+      "name": "Hank Red",
+      "grades": {
+        "CPE 101": 2,
+        "CPE 102": 2,
+        "CPE 103": 1,
+        "CPE 104": 3,
+        "CPE 105": 2
+      }
+    }
+  ]
+}
